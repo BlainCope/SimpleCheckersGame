@@ -1,4 +1,4 @@
-Portfolio Project: Advanced Checkers Game Design
+Advanced Checkers Game Design
 Created an object-oriented, Python-based variant of the classic board game, Checkers, suitable for two players, featuring a unique set of game rules as outlined in Checkers.pdf.
 
 Checkers:
